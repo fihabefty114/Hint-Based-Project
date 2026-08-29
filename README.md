@@ -1,1 +1,2 @@
 # Hint-Based-Project
+An end-to-end intelligent tutoring system built on the SSC-BanglaTutor dataset, extending the dataset into a progressive hint-based GenAI application with fine-tuning, RAG, agentic reasoning, and MCP tools.
